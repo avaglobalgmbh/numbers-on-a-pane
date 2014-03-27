@@ -1,0 +1,13 @@
+{
+  "name": "Numbers On A Pane",
+  "main": "./lib/numbers-on-a-pane",
+  "version": "0.0.0",
+  "description": "Display numbers on each pane for faster cmd-(1..9) jumping",
+  "repository": "https://github.com/atom/numbers-on-a-pane",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
