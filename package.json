@@ -1,13 +1,12 @@
 {
   "name": "numbers-on-a-pane",
   "main": "./lib/numbers-on-a-pane",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Display numbers on each pane for faster cmd-(1..9) jumping",
   "repository": "https://github.com/maprinz/numbers-on-a-pane",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
